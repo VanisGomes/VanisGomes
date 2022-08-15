@@ -31,30 +31,23 @@
   
  
 <div> 
-  <a href="https://www.youtube.com/channel/UCywV9Q7gvVNi-6bAJRomLPQ" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
-  </a>
-  
-  <a href="https://instagram.com/paulopelaez" target="_blank">
+    <a href="https://www.instagram.com/vanisgomes" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
- 	<a href="https://www.twitch.tv/paulopelaez" target="_blank">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank">
-  </a>
-  
-  <a href="https://discord.gg/paulopelaez" target="_blank">
+ 	  
+  <a href="https://discord.gg/vanis#5821" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
   </a>
   
-  <a href="mailto:pelaez@querywork.com">
+  <a href="mailto:vanessagomesconsultoria@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
   
-  <a href="https://www.linkedin.com/in/paulopelaez" target="_blank">
+  <a href="https://www.linkedin.com/in/vanessagomesconsultoria" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
   
-   <a href="https://wa.me/5585997464894" target="_blank">
+   <a href="https://wa.me/5585999278725" target="_blank">
    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
   </a> 
  
