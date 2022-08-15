@@ -4,8 +4,7 @@
 - 💜 - Atualmente sou Founder & CEO na [VG Consultoria](https://www.linkedin.com/company/vanessagomesconsultoria/);
 - 🦄 - Somos uma Consultoria Empresarial focada em Gestão de Pessoas. Aliamos metodologias ágeis com Psicologia e Gestão;
 - 💸 - Constantemente temos vagas para:
-- - **Frontend**: NextJs + ReactJ + ChakraUI + TypeScript;
-- - **Backend**: NestJs + PrismaIO + PostgreSQL;
+- -Tecnologia, Área Comercial, Administrativa, Produto, Estágios, Jovem Aprendiz
 - - Se alguma fez sentido pra você, [entre em contato conosco](https://www.linkedin.com/in/vanessagomesconsultoria/).
 
 ##
