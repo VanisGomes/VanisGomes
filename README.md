@@ -1,12 +1,12 @@
 # Fala Dev!! Tudo beleza ?
 
-- 👨🏽‍💻 -  Eu me chamo [Paulo Pelaez](https://www.linkedin.com/in/paulopelaez);
-- 💜 - Atualmente sou Founder & CTO na [QueryWork](https://www.linkedin.com/company/querywork);
-- 🦄 - Somos uma Startup que contrata os melhores talentos techs para empresas referência de mercado;
+- 👨🏽‍💻 -  Eu me chamo [Vanessa Gomes](https://www.linkedin.com/in/vanessagomesconsultoria/);
+- 💜 - Atualmente sou Founder & CEO na [VG Consultoria](https://www.linkedin.com/company/vanessagomesconsultoria/);
+- 🦄 - Somos uma Consultoria Empresarial focada em Gestão de Pessoas. Aliamos metodologias ágeis com Psicologia e Gestão;
 - 💸 - Constantemente temos vagas para:
 - - **Frontend**: NextJs + ReactJ + ChakraUI + TypeScript;
 - - **Backend**: NestJs + PrismaIO + PostgreSQL;
-- - Se alguma fez sentido pra você, [entre em contato conosco](https://www.linkedin.com/company/querywork).
+- - Se alguma fez sentido pra você, [entre em contato conosco](https://www.linkedin.com/in/vanessagomesconsultoria/).
 
 ##
 
